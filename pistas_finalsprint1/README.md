@@ -3,3 +3,5 @@
 2. métodos para los strings
 3. Ascii
 4. for, condicionales (if, if else)
+
+![diagrama-flujo.jpg](/Documentos/bootcamp_laboratoria/prueba_sprint1/final_project/assets/images)
